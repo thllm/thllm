@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thllm, Tobi
 - 👀 I’m interested in Cloud Architecture, Java, Kafka, Security
-- 🌱 I’m currently learning Java and Clound-Monitoring
+- 🌱 I’m currently learning Java and Cloud-Monitoring
 
 <!---
 thllm/thllm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
